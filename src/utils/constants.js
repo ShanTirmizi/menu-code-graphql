@@ -1,0 +1,10 @@
+export const constants = {
+    ADD_TO_CART: 'ADD_TO_CART',
+    IS_CART_FULL: 'IS_CART_FULL',
+    REMOVE_ERROR: 'REMOVE_ERROR',
+    STARTER: 'STARTER',
+    MAIN: 'MAIN',
+    DESSERT: 'DESSERT',
+    TOTAL_PRICE: 'TOTAL_PRICE',
+    TOGGLE_USER: 'TOGGLE_USER',
+};
