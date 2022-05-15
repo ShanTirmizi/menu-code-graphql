@@ -44,3 +44,4 @@ Please submit your program as an online repository or downloadable link to your 
 - Made components more reusable ( Mapping over the menu items is repeated three times. This could be one component instead )
 - Added more styling
 - Have more tests (due to time constraints, I didn't get to write tests for every component)
+- Added a success modal on submit
