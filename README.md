@@ -36,7 +36,11 @@ This restaurant, unfortunately, has a number of rules about the meals that can b
 ## Submission
 
 Please submit your program as an online repository or downloadable link to your point of contact at OpenTable.
-# menu-code-graphql
-# menu-code-graphql
-# menu-code-graphql
-# menu-code-graphql
+## Improvements if I had more time 
+
+- In some instances, we were breaking multiple rules; if I had more time, I would have added the ability to display more than one error
+- Made data in certain places more dynamic 
+- Added local storage
+- Made components more reusable ( Mapping over the menu items is repeated three times. This could be one component instead )
+- Added more styling
+- Have more tests (due to time constraints, I didn't get to write tests for every component)
